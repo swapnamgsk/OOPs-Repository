@@ -1,0 +1,23 @@
+Shopping mall example :
+
+encapsulation : 
+when we go to Shoppingmall for Shopping, we will take money, phone and we will 
+keep these things in our wallet. because these are important things for us to keep them safe.
+
+Inheritance : 
+When we go to Shopping we will already planned to take buy something such as 
+one shirt.But when I am roaming around the Shoppingmall There is an offer for sarees so I thoght
+I wanted to buy 2 sarees along with the shirt.
+
+Polymorphism : 
+Polymorphism could be exemplified by the use of the "Cotton" class or interface that various
+clothing items like "Black Cotton Saree" and "Cotton Towel" implement. Each clothing item can
+ have its implementation of methods like "texture" or "comfort" specific to its type, 
+ demonstrating polymorphism.
+
+Objects :  The Objects are Shoppingmall , employees working in the shopping complex, customers.
+
+Attributes : The clothes.
+
+Behaviour :  shopping is behaviour .
+

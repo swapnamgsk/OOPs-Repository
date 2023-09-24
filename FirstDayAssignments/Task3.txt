@@ -1,0 +1,2 @@
+Travel Constraints: Consider restrictions or rules you might encounter on your journey, like luggage weight
+limits or visa requirements. How would these constraints translate to software design principles?

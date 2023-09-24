@@ -1,0 +1,16 @@
+2. Journey Extension: Imagine extending your Swiss journey to neighboring countries. 
+How would you adapt your travel checklist? Relate this to the concept of
+ inheritance and polymorphism in software design.
+
+
+ If the Swiss journey extends to neighboring countries, I have to change my chekclist.
+ 
+Inheritance : when it comes to the concept of inheritance , At first my checklist is to visit
+the different places in swiss only but now my checklist has extended to visit different places
+in other countries also.Our checklist includes on the top the previous checklist.We have to 
+pack the things along the things which we have got in swiss. 
+
+Polymorphism: In our travel scenario, polymorphism can be related to the need for adapting 
+to different currencies in neighboring countries. We may use the same wallet or travel card 
+but need to accommodate multiple currencies, requiring us to dynamically handle and convert 
+currencies as needed during our journey.
