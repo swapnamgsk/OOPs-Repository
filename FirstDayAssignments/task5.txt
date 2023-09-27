@@ -1,0 +1,19 @@
+Travel Agencies and GPS Apps - Abstraction:
+
+Travel agencies and GPS apps are like specialized helpers on your journey.
+Abstraction in software design is similar. You define how these helpers should work 
+(e.g., what services they offer) without worrying about the nitty-gritty details.
+
+Abstractions - Dependency Inversion:
+
+You create a list of services you expect from these helpers (abstraction).
+In software, Dependency Inversion is about expecting specific services through abstract
+ definitions (like a "Helper" interface) instead of directly relying on one helper's exact 
+ capabilities.
+
+Using Different Helpers - Dependency Injection:
+
+You can switch to different travel agencies or GPS apps without changing your travel plans.
+In software, Dependency Injection is like having the flexibility to switch between helpers 
+(implementations of the "Helper" interface) easily, keeping your program adaptable.
+In simple terms, just as you can change helpers on your Swiss journey without altering your plans, Dependency Inversion in software design allows you to switch between services or tools without rewriting your code, making your software more flexible and adaptable.

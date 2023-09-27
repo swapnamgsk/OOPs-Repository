@@ -1,2 +1,20 @@
-Travel Constraints: Consider restrictions or rules you might encounter on your journey, like luggage weight
-limits or visa requirements. How would these constraints translate to software design principles?
+In Object-Oriented Programming (OOP), when designing a travel itinerary for a friend with different preferences, we can use principles like Inheritance and Polymorphism to make  base plan adaptable:
+
+Inheritance: 
+Create a base travel plan class with common properties and methods. Then, create subclasses for
+different preferences (e.g., adventurous, cultural, relaxing). Each subclass inherits from the base 
+class and can plan according to specific preferences.
+
+Polymorphism: Implement polymorphism by defining a common interface or method in the base class, like generateItinerary(). Subclasses can provide their own implementations of this method, allowing your friend's preferences to be accommodated while adhering to the same interface.
+
+Encapsulation: Use encapsulation to hide the complexity of itinerary generation within each subclass. Each subclass can manage the details of creating a travel plan that aligns with your friend's interests without affecting other parts of the code.
+
+Abstraction: Abstract away common features and behaviors in the base class. This allows you to focus on the unique aspects of each itinerary subclass, making it easier to adapt and maintain the code for various preferences.
+
+Modularity: Keep your code modular by organizing different aspects of the itinerary, such as accommodation, activities, and transportation, into separate classes or components. This way, you can mix and match these modules to create customized itineraries for your friend while maintaining code reusability.
+
+By applying these OOP principles, you can design a flexible and adaptable travel itinerary system that allows you to easily cater to your friend's unique preferences without having to rewrite the entire plan from scratch.
+
+
+
+

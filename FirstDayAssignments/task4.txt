@@ -1,0 +1,23 @@
+Luggage Weight Limits - Encapsulation:
+
+In travel, luggage weight limits restrict how much you can carry.
+In software, encapsulation limits direct access to data. It's like putting your
+ belongings in a suitcase, allowing controlled access. You don't want anyone messing 
+ with your stuff directly.
+
+Visa Requirements - Abstraction:
+
+Visas are like entry permits for countries.
+In software, abstraction hides complex details. Think of it as dealing with the visa office
+ instead of understanding every bureaucratic rule. It simplifies interactions.
+Flight Booking Rules - Inheritance:
+
+Airlines have specific rules for booking.
+Inheritance is like different ticket classes inheriting basic booking rules. 
+First class inherits some rules from economy, but it can add or modify them.
+Hotel Check-In Time - Polymorphism:
+
+Hotels have different check-in times.
+Polymorphism is like adapting to check-in times. You may arrive at a hotel at any time, 
+and you adapt your actions accordingly without knowing the specific check-in time until you 
+arrive.
